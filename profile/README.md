@@ -4,7 +4,11 @@ Building open-source developer tools. Local-first, self-hosted, no cloud lock-in
 
 ## Currently shipping
 
-**[Memory Vault](https://github.com/MihaiBuilds/memory-vault)** — A memory layer for LLMs. Postgres + pgvector, hybrid search, MCP integration for Claude. One `docker compose up`, runs entirely on your machine.
+**[Memory Vault](https://github.com/MihaiBuilds/memory-vault)** — A memory layer for LLMs. Postgres + pgvector, hybrid search, MCP integration for Claude. One `docker compose up`, runs entirely on your machine. **v1.0 released 2026-05-07.**
+
+```bash
+docker pull ghcr.io/mihaibuilds/memory-vault:latest
+```
 
 ## Principles
 
