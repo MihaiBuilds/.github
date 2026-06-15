@@ -10,6 +10,12 @@ Building open-source developer tools. Local-first, self-hosted, no cloud lock-in
 docker pull ghcr.io/mihaibuilds/memory-vault:latest
 ```
 
+**[The Brain](https://github.com/MihaiBuilds/the-brain)** — A workflow orchestrator for the MihaiBuilds ecosystem. Python-defined workflows with shell, LLM, Memory Vault, and MCP steps; manual / cron / webhook / file triggers; Postgres-backed state; multi-arch Docker. **v1.0 released 2026-06-15.**
+
+```bash
+docker pull ghcr.io/mihaibuilds/the-brain:latest
+```
+
 ## Principles
 
 - **Local-first** — your data stays on your hardware
